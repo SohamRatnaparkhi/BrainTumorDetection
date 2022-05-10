@@ -1,0 +1,2 @@
+- Link for dataset with both tumored and non-tumored images - [Kaggle](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
+- Size of zip - 84 MB
